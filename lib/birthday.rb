@@ -11,7 +11,7 @@
 # end
 
 def happy_birthday(hash)
-  hash.each do |child, key|
+  hash.each do |k, v|
     puts "Happy Birthday #{key}! You are now #{hash[child.key]} years old!"
   end
 end
