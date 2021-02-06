@@ -17,5 +17,7 @@
 # end
 
 def select_winner(hash)
-  
+  if hash[:suite_a].start_with("A")
+    hash[:suite_a]
+  end
 end
