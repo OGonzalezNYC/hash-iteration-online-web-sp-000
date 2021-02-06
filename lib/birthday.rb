@@ -11,5 +11,6 @@
 # end
 
 def happy_birthday(hash)
-  
+  hash.each do |child|
+    puts 
 end
