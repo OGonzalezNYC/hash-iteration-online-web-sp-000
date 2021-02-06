@@ -15,3 +15,7 @@
 #   end
 #   winner
 # end
+
+def select_winner(hash)
+  
+end
