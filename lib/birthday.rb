@@ -10,4 +10,6 @@
 #   end
 # end
 
-def 
+def happy_birthday(hash)
+  
+end
